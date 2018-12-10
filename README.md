@@ -26,11 +26,20 @@ Responsive:
 
 Connection with Server:
 
-Whenever a client send request to access the web page, server needs to respond to give access to the client of web page or not. 
+Whenever a client send request to access the web page, server needs to respond to give access to the client of web page or not.
+
+![47682861_725789411137484_8035430232204771328_n](https://user-images.githubusercontent.com/43327928/49731082-61c5f700-fca4-11e8-8016-715cf4bcee30.png)
+
+
 
 That's why we need to establish a connection with server to the client. Here we have done this by createServer function.The screen The request was handled by onRequest function. 
+
+![47688999_210214349907122_5557274243177119744_n](https://user-images.githubusercontent.com/43327928/49731083-62f72400-fca4-11e8-8266-d4d5a2191a66.png)
 
 To see the connection whether it is successfully connected or not you need to open a terminal in the main directory and need to write command accordin to the image given here.
 
 Then the server will be connected. After opening the web page running app.js you will get message whether the server is running or not.  
+
+
+![47683180_728796327507610_4069874347848761344_n](https://user-images.githubusercontent.com/43327928/49731084-638fba80-fca4-11e8-9d47-a0142d006741.png)
 

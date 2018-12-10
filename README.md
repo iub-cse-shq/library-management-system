@@ -12,6 +12,11 @@ Our project name: Library Management System
 4) Click on the Preview button to open a live preview panelocalhost 
 
 
+![1](https://user-images.githubusercontent.com/43327928/49728305-90d86a80-fc9c-11e8-8afd-7fd74a7e9270.png)
+
+
+
+
 Connection with Server:
 
 Whenever a client send request to access the web page, server needs to respond to give access to the client of web page or not. 

@@ -17,6 +17,8 @@ Our project name: Library Management System
 
 4) Click on the Preview button to open a live preview panelocalhost 
 
+![5](https://user-images.githubusercontent.com/43327928/49728837-07c23300-fc9e-11e8-8c3d-dcec639aad2d.png)
+
 
 
 

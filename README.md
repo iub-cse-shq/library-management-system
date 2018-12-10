@@ -2,12 +2,27 @@ Our project name: Library Management System
 
 1) we have used bootstrap cdn for responsive our website
 
+![1](https://user-images.githubusercontent.com/43327928/49730937-0136ba00-fca4-11e8-9a39-71a80e1010a0.png)
+
+
+![2](https://user-images.githubusercontent.com/43327928/49730941-0267e700-fca4-11e8-81f6-aed27f403d38.png)
+
+
+
+
 2)Then we have also used google fonts and font awesome for fonts and icons respectively.
+
+![3](https://user-images.githubusercontent.com/43327928/49730943-03007d80-fca4-11e8-8907-ad118723dd5f.png)
 
 3)we also used bootstrap for signup form
 
+![4](https://user-images.githubusercontent.com/43327928/49730947-04ca4100-fca4-11e8-80c2-7cb69bd5ece2.png)
+
 4) Click on the Preview button to open a live preview panelocalhost 
 
+Responsive:
+
+![9](https://user-images.githubusercontent.com/43327928/49730951-06940480-fca4-11e8-88e2-87319df54eca.png)
 
 Connection with Server:
 
